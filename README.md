@@ -1,12 +1,11 @@
+ <img align="right" height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/2170a11a6e46c97f492bc655af342fbd0f202b0a/gifs/tec.gif" >
+
 ## Oioi 👻 
-
-  <img align="right" height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/2170a11a6e46c97f492bc655af342fbd0f202b0a/gifs/tec.gif" >
-
-  ### 🐱‍👤Atualmete estou estudando JavaScript
-  ### 🍜Contate-me no email: carolmelo007@hotmail.com 
+  
+### 🐱‍👤Atualmete estou estudando JavaScript
+### 🍜Contate-me no email: carolmelo007@hotmail.com 
   
 ##
-<br> <br> <br> <br>
 <div align="center">
   <a href="https://github.com/carolinevitoria">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carolinevitoria&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
