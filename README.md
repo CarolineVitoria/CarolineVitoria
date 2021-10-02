@@ -2,8 +2,7 @@
 
 ## Oioi 👻 
   
-### 🐱‍👤Atualmete estou estudando JavaScript
-### 🍜Contate-me no email: carolmelo007@hotmail.com 
+### 🐱‍👤Atualmete estou estudando JavaScript <br> 🍜Contate-me no email: carolmelo007@hotmail.com 
   
 ## 
 <br> 
