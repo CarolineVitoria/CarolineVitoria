@@ -1,13 +1,12 @@
-### Oioi 👻
+ ### Oioi 👻
+	- 🐱‍👤Atualmete estou estudando JavaScript
+	- 🍜Contate-me no email: carolmelo007@hotmail.com 
+<div align="right">
+        <img height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/2170a11a6e46c97f492bc655af342fbd0f202b0a/gifs/tec.gif" >
+</div>
+                                                                                                                            
 
-##
-
-- 🐱‍👤Atualmete estou estudando JavaScript
-- 🍜Contate-me no email: carolmelo007@hotmail.com 
-
-##
-
-<div align="center">
+<div >
   <a href="https://github.com/carolinevitoria">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=carolinevitoria&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinevitoria&layout=compact&langs_count=7&theme=ocean_dark"/>
