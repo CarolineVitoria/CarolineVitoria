@@ -1,4 +1,4 @@
- <img align="right" height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/2170a11a6e46c97f492bc655af342fbd0f202b0a/gifs/tec.gif" >
+ <img align="right" height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/master/gifs/medieval.gif?raw=true" >
 
 ## Oioi 👻 
   
