@@ -1,18 +1,16 @@
- <img align="right" height="200em" src="https://github.com/CarolineVitoria/imagens-gif/blob/master/gifs/medieval.gif?raw=true" >
+# 👋 Olá! Seja bem-vindo(a) ao meu perfil!  
 
-## Oioi 👻 
-  
-### 🐱‍👤Atualmete estou estudando NODE <br> 🍜
+Me chamo **Vitória** e sou apaixonado(a) por desenvolvimento! 🚀  
 
-## 
-<br> <br>
-<div align="center">
-  <a href="https://github.com/carolinevitoria">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolinevitoria&layout=compact&langs_count=7&theme=ocean_dark"/>
-</div>
+🔹 Trabalho com Node.js, Express, MogongoDB, JS e TS  
+🔹 Atualmente estou focando meu estudo em Node.js   
 
-  ##
+---
 
-<div style="display: inline_block"><br>
- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ce5f1f5d-9317-4e3a-8bbf-077054bd0645" width="350" height="300">
+  <img src="https://github.com/user-attachments/assets/309e850d-79b1-45e5-82c6-df64a31c15a4f" width="350" height="300">
+</p>
+
+---
+
