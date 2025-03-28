@@ -1,6 +1,6 @@
 # 👋 Olá! Seja bem-vindo(a) ao meu perfil!  
 
-Me chamo **Vitória** e sou apaixonado(a) por desenvolvimento! 🚀  
+Me chamo **Vitória** e sou apaixonada por desenvolvimento! 🚀  
 
 🔹 Trabalho com Node.js, Express, MogongoDB, JS e TS  
 🔹 Atualmente estou focando meu estudo em Node.js   
